@@ -30,7 +30,7 @@ $ echo '{"actual_minutes_in_oven": 18}' | jq -f lasagna.jq
 
 ## 3. Calculate the preparation time in minutes
 
-The preparation time is how long it takes to get the lasagna ready before it is put in the over.
+The preparation time is how long it takes to get the lasagna ready before it is put in the oven.
 It takes 2 minutes to prepare each layer.
 
 ```sh
